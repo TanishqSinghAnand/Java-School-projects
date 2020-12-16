@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=MyCalculator
+comment0.text=
+comment1.params=frameText
+comment1.target=MyCalculator(java.lang.String)
+comment2.params=ev
+comment2.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment3.params=temp
+comment3.target=java.lang.String\ getFormattedText(double)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
